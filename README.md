@@ -110,9 +110,7 @@ Para esto, realice lo siguiente:
 
 5. Haga commit de lo realizado, para demarcar el avance de la parte 2.
 
-	```bash
-	git commit -m "PARTE 1".
-	```
+	
 
 
 ## Parte II.
@@ -124,9 +122,7 @@ Para hacer mas útil la aplicación, en lugar de capturar las coordenadas con ca
 
 5. Haga commit de lo realizado, para marcar el avance de la parte 2.
 
-	```bash
-	git commit -m "PARTE 2".
-	```
+	
 
 ## Parte III.
 
